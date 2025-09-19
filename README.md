@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Técnico em Análise em desenvolvimento de sistemas<br>- Realizando graduação em Ciência da Computação</p>
+<p align="left">- Técnica em Análise em desenvolvimento de sistemas<br>- Realizando graduação em Ciência da Computação</p>
 
 ###
 
