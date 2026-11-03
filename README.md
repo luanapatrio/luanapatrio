@@ -1,28 +1,34 @@
-<h2 align="left">ABOUT ME</h2>
+# Olá! Eu sou a Luana Andrade 👋
 
-###
+🎓 Estudante de Bacharelado em Ciência da Computação.
 
-<p align="left">- Técnica em Análise em desenvolvimento de sistemas<br>- Realizando graduação em Ciência da Computação</p>
+💻 Técnica em Análise e Desenvolvimento de Sistemas.
 
-###
+🤖 Interessada em Inteligência Artificial Generativa, agentes de IA e automação de processos.
 
-<h4 align="left">TECHS</h4>
+📊 Explorando soluções que conectam tecnologia, dados e negócios.
 
-###
+### Tecnologias e ferramentas
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-</div>
+- **Linguagens:** Python, Java, JavaScript.
+- **Web:** HTML, CSS, PHP.
+- **Banco de dados:** SQL, MySQL, Supabase.
+- **IA e automação:** n8n, LLMs e engenharia de prompts.
+- **Dados:** Power BI e Excel.
+- **Ferramentas:** Git, GitHub, VS Code e NetBeans.
 
-###
+### Projetos em destaque
+
+🚀 **Aventura Matemática:** jogo educativo desenvolvido com JavaScript, Phaser e Supabase.
+
+🤖 **Agentes de IA:** experimentos com automação e integração de ferramentas utilizando n8n.
+
+📚 **Sistema de Gerenciamento de Livros:** aplicação desenvolvida em Java com banco de dados H2.
+
+### Vamos nos conectar?
+
+- LinkedIn: https://linkedin.com/in/luana-andrade-patricio/
+- GitHub: https://github.com/luanapatrio
 
 
 ###
